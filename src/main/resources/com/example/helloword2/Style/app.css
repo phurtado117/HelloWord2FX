@@ -6,7 +6,7 @@
 #divider{
     -fx-pref-width: 400;
     -fx-pref-height: 20;
-    -fx-background-color: #3E4756;
+    -fx-background-color: white;
     -fx-border-width: 0;
 
 }
@@ -28,7 +28,7 @@
     -fx-pref-width: 200;
     -fx-pref-height: 200;
     -fx-border-width: 0px;
-    -fx-background-color: black;
+    -fx-background-color: #3E4756;
 
 
 }
@@ -59,13 +59,13 @@
 
 #leftTouchPanel{
     -fx-pref-width: 200;
-    -fx-border-color: red;
+    -fx-border-color: #3E4756;
     -fx-padding: 10;
     -fx-alignment: center-left;
 }
 #rightTouchPanel  {
     -fx-pref-width: 200;
-    -fx-border-color: green;
+    -fx-border-color: #3E4756;
     -fx-padding: 10;
     -fx-alignment: center-left;
 }
@@ -73,14 +73,14 @@
 #TouchPanel{
     -fx-pref-width: 400;
     -fx-pref-height: 120;
-    -fx-background-color: blue;
+    -fx-background-color: #3E4756;
 
 }
 
 #lblTouchTitle{
     -fx-font-family: "roboto";
     -fx-font-weight: bold;
-    -fx-text-fill: yellow;
+    -fx-text-fill: white;
     -fx-font-size: 16;
 }
 
@@ -97,18 +97,19 @@
     -fx-background-position: center;
     -fx-pref-width: 70;
     -fx-pref-height: 30;
-    -fx-background-color: blue;
+
+    -fx-background-color: #3E4756;
 }
 
 #leftTouchPanel2{
     -fx-pref-width: 200;
-    -fx-border-color: red;
+
     -fx-padding: 10;
     -fx-alignment: center-left;
 }
 #rightTouchPanel2  {
     -fx-pref-width: 200;
-    -fx-border-color: green;
+
     -fx-padding: 10;
     -fx-alignment: center-left;
 }
@@ -116,14 +117,14 @@
 #TouchPanel2{
     -fx-pref-width: 400;
     -fx-pref-height: 120;
-    -fx-background-color: green;
+    -fx-background-color: #3E4756;
 
 }
 
 #lblTouchTitle2{
     -fx-font-family: "roboto";
     -fx-font-weight: bold;
-    -fx-text-fill: yellow;
+    -fx-text-fill: #DEDEDE;
     -fx-font-size: 16;
 }
 
@@ -140,13 +141,13 @@
     -fx-background-position: center;
     -fx-pref-width: 70;
     -fx-pref-height: 30;
-    -fx-background-color: green;
+    -fx-background-color: #3E4756;
 }
 
 #TouchPanel3{
     -fx-pref-width: 400;
     -fx-pref-height: 120;
-    -fx-background-color: brown;
+    -fx-background-color: #3E4756;
 }
 
 
@@ -159,13 +160,13 @@
 #lblTouchTitle3{
     -fx-font-family: "roboto";
     -fx-font-weight: bold;
-    -fx-text-fill: yellow;
+    -fx-text-fill: white;
     -fx-font-size: 16;
 }
 
 #TouchPanel4{
     -fx-pref-width: 100;
-    -fx-background-color: aqua;
+    -fx-background-color:#3E4756;
     -fx-padding: 30;
     -fx-alignment: center-left;
 }
@@ -203,7 +204,7 @@
     -fx-background-position: center;
     -fx-pref-width: 370;
     -fx-pref-height: 120;
-    -fx-background-color: brown;
+    -fx-background-color: #3E4756;
 }
 
 #barra{
